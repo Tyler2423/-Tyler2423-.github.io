@@ -1,0 +1,21 @@
+<!DOCTYPE.html>
+<html lang="en">
+  <head>
+    <title>J1013</title>
+    <style>
+      body {
+	  background-color:#03a1fc
+      }
+    </style>
+  </head>
+  <body>
+    <p>Name: Tyler Huff</p>
+    <p>Date: 14-Sep-2022</p>
+    <p>I recieved assistance from: </p>
+    <p>I assisted: </p>
+    <br>
+    <p>1.1 Why is one of the symbols used for exclusive disjunction =</p>
+    <p> The symbol means exclusive disjuntion</p>
+    <p>Why is the formula for determining the number of rows in a truth table related only to the number of inputs, and why is the formula 2?</p>
+    <p>Because you need inputs to make the rows work</p>
+    

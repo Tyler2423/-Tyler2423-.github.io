@@ -1,0 +1,25 @@
+<!DOCTYPE.html>
+<html lang="en">
+  <head>
+    <title>J1012</title>
+    <style>
+      body {
+	  background-color:#03a1fc
+      }
+    </style>
+  </head>
+  <body>
+    <p>Name: Tyler Huff</P>
+    <p>Date: 12-Sep-2022</p>
+    <p>I received assistance from: </p>
+    <p>I assisted: </p>
+    <br>
+    <p>1.1 Describe the general process for executing addition, regardless of base.</p>
+    <p>Take the value of the first number and combine it with the second number</p>
+    <p>2.1 What special factors need to be considered when executing addition with octal numbers?</P>
+    <p>Take the numbers and add them vertically</P>
+    <p>3.1 What special factors need to be considered when executing addition with hexadecimal numbers?</p>
+    <p>Take the numbers and add them vertically amd then carry the numbers</p>
+    <p>4.1 What special factors need to be considered when executing addition with binary numbers?</p>
+    <p>Add the right-most column to the left and carry numbers</P>
+    
